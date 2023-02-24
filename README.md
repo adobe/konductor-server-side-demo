@@ -20,7 +20,7 @@ personalization requests to konductor.
 
 1. Clone the project
     ```shell
-    $ git clone git@github.com:mflorin/konductor-demo-express.git
+    $ git clone git@github.com:adobe/konductor-server-side-demo.git
     ```
 2. Add an entry in your hosts file to have `mybusiness.com` point to `127.0.0.1`
     ```shell
